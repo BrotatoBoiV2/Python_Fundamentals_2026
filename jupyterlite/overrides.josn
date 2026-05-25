@@ -1,0 +1,11 @@
+{
+  "@jupyterlab/filebrowser-extension:browser": {
+    "showHiddenFiles": false
+  },
+  "@jupyterlab/launcher-extension:launcher": {
+    "enabled": false
+  },
+  "@jupyterlab/apputils-extension:interface": {
+    "mode": "single-document"
+  }
+}
