@@ -1,0 +1,12 @@
+{
+  "LiteBuildConfig": {
+    "extra_ignore_contents": [
+      "data",
+      "pyodide",
+      "python.ipynb",
+      "javascript.ipynb",
+      "p5.ipynb",
+      "README.md"
+    ]
+  }
+}
